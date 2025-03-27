@@ -1,4 +1,4 @@
-# LangSplat-Interact
+# LangSplat-Interact (In-Progress)
 
 **LangSplat-Interact** is an experimental extension of [LangSplat](https://github.com/minghanqin/LangSplat) that enables dynamic interaction with 3D scenes using natural language commands. It explores how users can issue textual instructions to manipulate and query elements within a 3D Gaussian Splatting scene in real-time.
 
